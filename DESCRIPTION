@@ -6,5 +6,6 @@ Author: Kirby White
 Maintainer: Kirby White <whitek5@spu.edu>
 Description: The WiLDr package is a compilation of R functions useful for working with the WiLD Toolkit.
 Encoding: UTF-8
+imports: lubridate
 LazyData: true
 RoxygenNote: 6.1.1
