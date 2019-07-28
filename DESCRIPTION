@@ -8,3 +8,5 @@ Description: The WiLDr package is a compilation of R functions useful for workin
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.1
+Imports: 
+    lubridate
